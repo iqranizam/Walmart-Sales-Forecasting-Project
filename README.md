@@ -20,16 +20,6 @@ The dataset includes the following files:
 - `test.csv`: Test data with store, department, and dates for which sales need to be predicted.
 - `features.csv`: Additional regional and marketing data including Temperature, Fuel Price, CPI, Unemployment, and Markdown variables.
 
-## Project Structure
-walmart_sales_forecasting/\n 
-├── data/ # Contains raw dataset files (.csv)\n 
-├── notebooks/ # Jupyter notebooks for EDA, modeling \n
-├── src/ # Source code & scripts (e.g., preprocessing, modeling)\n 
-├── app.py # Streamlit dashboard app \n
-├── requirements.txt # Python dependencies file (optional) \n
-└── README.md # This project README\n
-
-
 
 ## Setup and Installation
 
